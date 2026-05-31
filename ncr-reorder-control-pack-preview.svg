@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">NCR Reorder Control Pack preview</title>
+  <desc id="desc">Preview of a range-control workbook, reorder trigger sheet, proof checklist, and pad labels.</desc>
+  <rect width="1200" height="630" fill="#f9f4ea"/>
+  <path d="M0 0h1200v630H0z" fill="url(#grid)"/>
+  <defs>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0v36" fill="none" stroke="#d8cdbd" stroke-width="1" opacity=".65"/>
+    </pattern>
+  </defs>
+  <rect x="70" y="58" width="1060" height="514" fill="#fffaf0" stroke="#181511" stroke-width="3"/>
+  <rect x="96" y="86" width="564" height="376" fill="#ffffff" stroke="#181511" stroke-width="2"/>
+  <rect x="96" y="86" width="564" height="54" fill="#254b68"/>
+  <text x="124" y="121" fill="#fffaf0" font-family="Georgia,serif" font-size="27" font-weight="700">NCR Reorder Control Workbook</text>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="18" fill="#181511">
+    <text x="122" y="178" font-weight="700">FORM ID</text>
+    <text x="260" y="178">NCR-042</text>
+    <text x="122" y="223" font-weight="700">PRIOR RANGE</text>
+    <text x="260" y="223">1001-1500</text>
+    <text x="122" y="268" font-weight="700">NEXT START</text>
+    <text x="260" y="268">1501</text>
+    <text x="122" y="313" font-weight="700">ORDERED SETS</text>
+    <text x="260" y="313">500</text>
+    <text x="122" y="358" font-weight="700">STATUS</text>
+    <text x="260" y="358" fill="#2f6d59" font-weight="700">RANGE CHECKED</text>
+  </g>
+  <g stroke="#d8cdbd" stroke-width="2">
+    <path d="M112 196h522M112 241h522M112 286h522M112 331h522M112 376h522"/>
+    <path d="M240 150v264"/>
+  </g>
+  <rect x="704" y="96" width="340" height="180" fill="#ffffff" stroke="#181511" stroke-width="2"/>
+  <rect x="704" y="96" width="340" height="42" fill="#98341f"/>
+  <text x="728" y="124" fill="#fffaf0" font-family="ui-monospace,Consolas,monospace" font-size="17" font-weight="700">PROOF CHECKLIST</text>
+  <g fill="#181511" font-family="ui-monospace,Consolas,monospace" font-size="17">
+    <text x="730" y="167">[x] Starting number</text>
+    <text x="730" y="204">[x] Position on form</text>
+    <text x="730" y="241">[x] Approval initials</text>
+  </g>
+  <rect x="704" y="306" width="340" height="146" fill="#ffffff" stroke="#181511" stroke-width="2"/>
+  <text x="728" y="346" fill="#181511" font-family="ui-monospace,Consolas,monospace" font-size="18" font-weight="700">PAD LABEL DATA</text>
+  <rect x="732" y="370" width="94" height="46" fill="#f9f4ea" stroke="#181511"/>
+  <rect x="848" y="370" width="94" height="46" fill="#f9f4ea" stroke="#181511"/>
+  <rect x="964" y="370" width="48" height="46" fill="#f9f4ea" stroke="#181511"/>
+  <text x="748" y="399" fill="#181511" font-family="ui-monospace,Consolas,monospace" font-size="14">1501</text>
+  <text x="864" y="399" fill="#181511" font-family="ui-monospace,Consolas,monospace" font-size="14">1550</text>
+  <text x="974" y="399" fill="#181511" font-family="ui-monospace,Consolas,monospace" font-size="14">P1</text>
+  <g transform="translate(478 402) rotate(-10)">
+    <circle cx="0" cy="0" r="80" fill="none" stroke="#98341f" stroke-width="7"/>
+    <text x="-50" y="-8" fill="#98341f" font-family="ui-monospace,Consolas,monospace" font-size="22" font-weight="900">RANGE</text>
+    <text x="-58" y="22" fill="#98341f" font-family="ui-monospace,Consolas,monospace" font-size="22" font-weight="900">CHECKED</text>
+  </g>
+  <text x="96" y="522" fill="#181511" font-family="Georgia,serif" font-size="42" font-weight="700">Sequentially numbered carbonless reorders, controlled.</text>
+  <text x="100" y="558" fill="#5f5a50" font-family="ui-monospace,Consolas,monospace" font-size="18">Workbook + PDFs + CSV templates + labels · $99 static download</text>
+</svg>
