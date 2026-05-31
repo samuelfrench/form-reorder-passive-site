@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Print Workflow Packs">
+  <rect width="64" height="64" rx="12" fill="#17324d"/>
+  <path d="M18 14h28v36H18z" fill="#fffaf0"/>
+  <path d="M23 22h18M23 30h18M23 38h12" stroke="#17324d" stroke-width="4" stroke-linecap="round"/>
+  <path d="M42 14v12h12" fill="none" stroke="#d8a84f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
